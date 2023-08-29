@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>145724227456-qnguea8tab4bbhbrdl3akqmafec0usqd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.145724227456-qnguea8tab4bbhbrdl3akqmafec0usqd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJqZAcJEupn7312x38k9bznv8DUlwgLbc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145724227456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.trackTimeRiverpod</string>
+	<key>PROJECT_ID</key>
+	<string>my-track-time-riverpod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-track-time-riverpod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145724227456:ios:b976707d34c46e6c438b65</string>
+</dict>
+</plist>

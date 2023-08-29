@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145724227456",
+    "project_id": "my-track-time-riverpod",
+    "storage_bucket": "my-track-time-riverpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145724227456:android:2114ccf99c10caf6438b65",
+        "android_client_info": {
+          "package_name": "com.example.track_time_riverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145724227456-s66p2h75mnior7r06am1c2fqe16bj10f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBheCVPjjqZ78ELMLxFJUYrJnGVxAQUXkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145724227456-s66p2h75mnior7r06am1c2fqe16bj10f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

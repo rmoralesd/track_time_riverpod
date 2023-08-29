@@ -9,8 +9,8 @@ enum AppRoute {
 
 GoRouter goRouter() {
   return GoRouter(
-    initialLocation: '/onboarding',
-    debugLogDiagnostics: true,
+    initialLocation: '/signIn',
+    debugLogDiagnostics: false,
     routes: [
       GoRoute(
         path: '/onboarding',

@@ -1,3 +1,4 @@
+import 'package:firebase_ui_auth/firebase_ui_auth.dart';
 import 'package:flutter/material.dart';
 
 class CustomSignInScreen extends StatelessWidget {
@@ -5,8 +6,10 @@ class CustomSignInScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(child: Text("Sign in")),
-    );
+    return Scaffold(
+        appBar: AppBar(
+          title: const Text("Sign in"),
+        ),
+        body: SignInScreen());
   }
 }
