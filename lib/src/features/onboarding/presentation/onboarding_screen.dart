@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:go_router/go_router.dart';
 import 'package:track_time_riverpod/src/features/onboarding/presentation/constants/app_sizes.dart';
+import 'package:track_time_riverpod/src/routing/app_router.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});
@@ -27,7 +29,9 @@ class OnboardingScreen extends StatelessWidget {
             ),
             gapH16,
             ElevatedButton(
-              onPressed: () {},
+              onPressed: () {
+                context.goNamed(AppRoute.signIn.name);
+              },
               child: Text(
                 'Get started',
                 textAlign: TextAlign.center,
